@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/106021674/209846764-b0a5deda-1a6b-4a24-bfb8-31249c5e9c32.png" />
+
 <h1 align="center">Hi 👋, I'm Utkarsh Singhal</h1>
 <h3 align="center">Hello! I am Utkarsh Singhal ,a Full Stack Web Developer .Welcome to my Github Profile.Hope you have a good time here</h3>
 
