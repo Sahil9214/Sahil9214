@@ -1,4 +1,4 @@
-
+<img src="https://blog.trello.com/hubfs/NewTeamMemberFinal.png" />
 
 <h1 align="center">Hi 👋, I'm Utkarsh Singhal</h1>
 <h3 align="center">Hello! I am Utkarsh Singhal ,a Full Stack Web Developer .Welcome to my Github Profile.Hope you have a good time here</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil9214" alt="sahil9214" /></a> </p>
 
-- 🔭 I am working on [TrackingTime](https://github.com/Alexfp05405/eminent-art-8078)
+
 
 - 🌱 I’m currently learning **MERN**
 
