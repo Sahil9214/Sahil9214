@@ -32,7 +32,7 @@
 <a href="https://fb.com/utkarsh singhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkarsh singhal" height="30" width="40" /></a>
 <a href="https://instagram.com/_utkarshsinghal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_utkarshsinghal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCgLyPVeiE9n4nqpWwhhdPEg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="movie sunno" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahil9214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil9214" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/sahil9214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil9214" height="30" width="40" /></a>
 </p>
 
