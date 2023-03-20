@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sahil9214/Sahil9214.github.io](https://github.com/Sahil9214/Sahil9214.github.io)
 
-- 📝I am a Youtuber <a  href="https://www.youtube.com/channel/UC8N9rhyqFHcy_dIcSoTHS0g">Youtube</a>
+- 📝I am a Youtuber 
 
 - 💬 Ask me about **React,javaScript,HTML,CSS ,MERN,NEXT.JS**
 
