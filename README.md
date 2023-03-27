@@ -1,5 +1,5 @@
 <img margin="auto" justify-content="center"   align="center" width="100%"   src="https://camo.githubusercontent.com/122f31bbe0c1574be8df8c502ccd91d95df9a2d1fa68d1b7958760a7211a1c52/68747470733a2f2f6d656469612e74656e6f722e636f6d2f2d6d5f70797974655f674541414141642f77656c636f6d652d7265647461696c732e676966"/>
-<h1 align="center">Hi 👋, I'm Utkarsh Singhal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> I'm Utkarsh Singhal</h1>
 <h3 align="center">A passionate fullStack web  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil9214&label=Profile%20views&color=0e75b6&style=flat" alt="sahil9214" /> </p>
