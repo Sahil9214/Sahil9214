@@ -52,7 +52,7 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
 
 - 📫 How to reach me utkarshsinghal369@gmail.com
 - Portfolio Link <a href="https://sahil9214.github.io/">My portfolio</a>
-- 📄 Know about my experiences [https://drive.google.com/file/d/10oI6FnP85JxntvrHDRGOOe885SyFXYUl/view?usp=sharing](https://drive.google.com/file/d/10oI6FnP85JxntvrHDRGOOe885SyFXYUl/view?usp=sharing)
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1MjDOnCVqAPrI_cUzY0ONF84CLcklILuc/view?usp=sharing' target="_blank"> <strong>Resume</strong></a>
 
 - ⚡ Fun fact I love Travelling
 
