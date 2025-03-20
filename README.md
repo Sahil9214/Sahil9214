@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate Full Stack Web Developer with **1 year of experience**, skilled in crafting dynamic, responsive, and user-friendly applications using **React.js**, **Next.js**, and **TypeScript**. I enjoy exploring new technologies, solving real-world problems, and delivering clean, efficient code. When I'm not coding, you’ll find me sketching or planning my next travel adventure!
+Full Stack Web Developer with 1 year of experience specializing in building dynamic, responsive applications. Proficient in **React.js**, **Next.js**, and **TypeScript**, with a strong focus on creating efficient and user-friendly solutions. Passionate about coding, problem-solving, and continuously enhancing my skills. I enjoy exploring new technologies, solving real-world problems, and delivering clean, efficient code. When I'm not coding, you’ll find me sketching or planning my next travel adventure! Explore my projects below!
 
 ---
 
