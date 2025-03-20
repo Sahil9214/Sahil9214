@@ -13,7 +13,8 @@
 Full Stack Web Developer with 1 year of experience specializing in building dynamic, responsive applications. Proficient in **React.js**, **Next.js**, and **TypeScript**, with a strong focus on creating efficient and user-friendly solutions. Passionate about coding, problem-solving, and continuously enhancing my skills. I enjoy exploring new technologies, solving real-world problems, and delivering clean, efficient code. When I'm not coding, you’ll find me sketching or planning my next travel adventure! Explore my projects below!
 
 ---
-
+<img src="https://camo.githubusercontent.com/e00623f27e943ded69b1011503bfe50e5a033bd30342557d7dace4035e0aa568/68747470733a2f2f63342e77616c6c7061706572666c6172652e636f6d2f77616c6c70617065722f3638382f313030312f3238312f636f64696e672d646576656c6f7065722d71756f7465732d746563686e6f6c6f67792d77616c6c70617065722d707265766965772e6a7067" alt='code-base-image' />
+---
 ### 🛠️ Skills & Tools
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
