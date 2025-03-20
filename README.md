@@ -5,7 +5,7 @@
 I’m a Full Stack Web Developer with **1 year of experience**, trained at **[Masai School](https://www.masaischool.com/)**, where I honed my skills in modern web development. Currently, I’m contributing to innovative projects at **[NeuralHQ.ai](https://www.neuralhq.ai/)**, a company I helped create. I specialize in crafting dynamic, responsive applications using **React.js**, **Next.js**, and **TypeScript**, and I’m passionate about leveraging cutting-edge tools like **Angular**, **Vue.js**, and **Docker** to build scalable solutions. I also experiment with AI tools like **v0**, **Claude**, **Grok**, **DeepSeek**, and **ChatGPT** to optimize workflows and explore new possibilities. When I’m not coding, you’ll find me sketching or planning my next travel adventure. Explore my projects below!
 
 ---
-<img src='https://camo.githubusercontent.com/410692453565c8609eea9618bfafcfd200288a6dab6d8a23b8205251173b525a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966' />
+<img src='	https://camo.githubusercontent.com/b7d661ef1eda514…32e636f6d2f506f707065722e7073642e66756c6c2e706e67'alt="images" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil9214&label=Profile%20views&color=0e75b6&style=flat" alt="sahil9214" /> </p>
 <br/>
