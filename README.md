@@ -26,7 +26,7 @@ I’m a Full Stack Web Developer with **1 year of experience**, trained at **[Ma
 
 #### Frontend Development
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/v0.png)" alt="React" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/v0.png" alt="React" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/></a>
