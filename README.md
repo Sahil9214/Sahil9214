@@ -53,7 +53,7 @@ I’m a Full Stack Web Developer with **1 year of experience**, trained at **[Ma
 
 #### AI & Productivity Tools
 <p align="left">
-  <a href="https://v0.dev/" target="_blank"><img src="https://img.icons8.com/?size=100&id=134779&format=png](https://10web.io/wp-content/uploads/2024/08/v0_by_Vercel_logo.png" alt="v0" width="40" height="40"/></a>
+  <a href="https://v0.dev/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/v0.png" alt="v0" width="40" height="40"/></a>
   <a href="https://anthropic.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=134780&format=png" alt="Claude" width="40" height="40"/></a>
   <a href="https://x.ai/" target="_blank"><img src="https://img.icons8.com/?size=100&id=134781&format=png" alt="Grok" width="40" height="40"/></a>
   <a href="https://deepseek.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=134782&format=png" alt="DeepSeek" width="40" height="40"/></a>
