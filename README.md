@@ -13,7 +13,8 @@
 Full Stack Web Developer with 1 year of experience specializing in building dynamic, responsive applications. Proficient in **React.js**, **Next.js**, and **TypeScript**, with a strong focus on creating efficient and user-friendly solutions. Passionate about coding, problem-solving, and continuously enhancing my skills. I enjoy exploring new technologies, solving real-world problems, and delivering clean, efficient code. When I'm not coding, you’ll find me sketching or planning my next travel adventure! Explore my projects below!
 
 ---
-<img src="https://camo.githubusercontent.com/e00623f27e943ded69b1011503bfe50e5a033bd30342557d7dace4035e0aa568/68747470733a2f2f63342e77616c6c7061706572666c6172652e636f6d2f77616c6c70617065722f3638382f313030312f3238312f636f64696e672d646576656c6f7065722d71756f7465732d746563686e6f6c6f67792d77616c6c70617065722d707265766965772e6a7067" alt='code-base-image' />
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="https://private-user-images.githubusercontent.com/121092445/252159929-5809b6eb-0447-4f8b-a4e8-4fb8149528ef.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI0NzU3NTUsIm5iZiI6MTc0MjQ3NTQ1NSwicGF0aCI6Ii8xMjEwOTI0NDUvMjUyMTU5OTI5LTU4MDliNmViLTA0NDctNGY4Yi1hNGU4LTRmYjgxNDk1MjhlZi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyMFQxMjU3MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZGEyOWQ3MjUxN2RmMjZlOWExODc0YzBlNDdjNzg0NDg3MDAxZDI2MjA2YjRmNWUxMjAwODEzYjQyMGQxN2Q1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2IWaABx-UiD3PU8zj34FUt8WwOWuJOESAIwUWqH5jVo" alt='code-base-image' /></div>
 ---
 ### 🛠️ Skills & Tools
 <p align="left">
