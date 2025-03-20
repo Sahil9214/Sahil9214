@@ -5,46 +5,9 @@
 I’m a Full Stack Web Developer with *1 year of experience, trained at **[Masai School](https://www.masaischool.com/), where I honed my skills in modern web development. Currently, I’m contributing to innovative projects at **[NeuralHQ.ai](https://www.neuralhq.ai/), a company I helped create. I specialize in crafting dynamic, responsive applications using **React.js, **Next.js, and **TypeScript, and I’m passionate about leveraging cutting-edge tools like **Angular, **Vue.js, and **Docker* to build scalable solutions. I also experiment with AI tools like *v0, **Claude, **Grok, **DeepSeek, and **ChatGPT* to optimize workflows and explore new possibilities. When I’m not coding, you’ll find me sketching or planning my next travel adventure. Explore my projects below!
 
 ---
-<div style="
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-        height: 300px;
-        background-color: #f3f3f3;
-        position: relative;
-        overflow: hidden;
-        border: 5px solid black;
-    ">
-        <!-- Background Pattern -->
-        <div style="
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            background-image: url('https://www.transparenttextures.com/patterns/circuit-board.png');
-            opacity: 0.3;
-        "></div>
+<img src="https://github.com/user-attachments/assets/61098c5d-dafe-43b0-b900-2b4f06b62476" style="width:100vw height:400px" />
 
-        <!-- Content -->
-        <div style="display: flex; align-items: center; gap: 20px; position: relative; z-index: 10;">
-            <!-- Avatar -->
-            <img src="your-avatar.png" alt="Your Avatar" style="
-                width: 120px;
-                height: 120px;
-                border-radius: 50%;
-                border: 4px solid black;
-            ">
-
-            <!-- Text Content -->
-            <div>
-                <h1 style="font-size: 32px; font-weight: bold; margin: 0; color: #222;">Your Name</h1>
-                <p style="font-size: 18px; margin: 5px 0; color: #444;">Full Stack Web & App Developer</p>
-                <a href="https://yourwebsite.com" style="font-size: 16px; color: #007bff; text-decoration: none;">
-                    www.yourwebsite.com
-                </a>
-            </div>
-        </div>
-    </div>
+---
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil9214&label=Profile%20views&color=0e75b6&style=flat" alt="sahil9214" /> </p>
