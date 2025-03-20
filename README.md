@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img width="40px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> I'm Utkarsh Singhal</h1>
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 <p align="center">I am always looking for an opportunity to do better and achieve greatness.</p>
-<img src='https://camo.githubusercontent.com/3492228fd9a698d…56c6c2d737461636b2d646576656c6f706d656e742e676966' alt='first-imagae' />
+<img src='	https://camo.githubusercontent.com/3492228fd9a698d…56c6c2d737461636b2d646576656c6f706d656e742e676966' alt='first-image' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil9214&label=Profile%20views&color=0e75b6&style=flat" alt="sahil9214" /> </p>
 <br/>
