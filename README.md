@@ -69,15 +69,15 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
   </a>
-  <a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" alt="cypress" width="50" height="50"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
@@ -93,6 +93,9 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
@@ -114,13 +117,6 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
   </a>
 </p>
 
-<style>
-  p {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-  }
-</style>
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil9214&show_icons=true&locale=en&layout=compact" alt="sahil9214" /></p> -->
