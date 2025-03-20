@@ -39,9 +39,6 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
   [April 2024 - May 2024](https://www.neuralhq.ai/)  
   Designed and deployed a mobile-first website with a *98/100 Google PageSpeed score* using *React, **Tailwind CSS*, and lazy loading techniques.
 
-- *Exploring & Collaborating*  
-  Diving deeper into *MERN Stack, **Angular, and **Vue.js* while seeking collaboration on impactful projects like *[Hindustan Time](https://github.com/Sahil9214/Utkarshfw20_1149-intersting-fork-8458)* and support for *[Mesho](https://github.com/Sahil9214/sahil9214-sahil-fw20_1149_swelting-camp-7483)*.
-
 - *All My Work*  
   Check out my portfolio: *[GitHub Portfolio](https://github.com/Sahil9214/Sahil9214.github.io)*
 
