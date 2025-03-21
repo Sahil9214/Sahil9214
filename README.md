@@ -2,7 +2,7 @@
 
 
 ### 🚀 About Me
-I’m a Full Stack Web Developer with *1 year of experience, trained at [Masai School](https://www.masaischool.com/), where I honed my skills in modern web development. Currently, I’m contributing to innovative projects at **[NeuralHQ.ai](https://www.neuralhq.ai/), a company I helped create. I specialize in crafting dynamic, responsive applications using **React.js, **Next.js, and **TypeScript, and I’m passionate about leveraging cutting-edge tools like **Angular, **Vue.js, and **Docker* to build scalable solutions. I also experiment with AI tools like v0, Claude, Grok, DeepSeek, and ChatGPT to optimize workflows and explore new possibilities. When I’m not coding, you’ll find me sketching or planning my next travel adventure. Explore my projects below!
+I’m a Full Stack Web Developer with *1 year of experience, trained at [Masai School](https://www.masaischool.com/), where I honed my skills in modern web development. Currently, I’m contributing to innovative projects at **[NeuralHQ.ai](https://www.neuralhq.ai/), a company I helped create. I specialize in crafting dynamic, responsive applications using **React.js**, **Next.js**, and **TypeScript**, and I’m passionate about leveraging cutting-edge tools like **Angular, **Vue.js, and **Docker** to build scalable solutions. I also experiment with AI tools like v0, Claude, Grok, DeepSeek, and ChatGPT to optimize workflows and explore new possibilities. When I’m not coding, you’ll find me sketching or planning my next travel adventure. Explore my projects below!
 
 ---
 <img src="https://github.com/user-attachments/assets/61098c5d-dafe-43b0-b900-2b4f06b62476" style="width:100vw height:400px" />
