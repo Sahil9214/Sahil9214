@@ -14,6 +14,11 @@ When I’m not coding, I’m either **sketching** or planning my next **travel a
 - **Exploring More:** Familiar with **Angular** and **Vue.js**, always eager to expand my toolkit.  
 - **DevOps & AI Integration:** Experimenting with **Docker**, and leveraging AI tools like **v0, Claude, Grok, DeepSeek, and ChatGPT** to enhance development workflows. 
 
+
+🚀 **Looking for Frontend Developer Roles** – Let’s connect!  
+
+
+
 ---
 <img src="https://github.com/user-attachments/assets/61098c5d-dafe-43b0-b900-2b4f06b62476" style="width:100vw height:400px" />
 
