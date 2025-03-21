@@ -7,6 +7,7 @@ I’m a Full Stack Web Developer with *1 year of experience, trained at **[Masai
 ---
 ### 🎨 Beyond Code:  
 When I’m not coding, I’m either **sketching** or planning my next **travel adventure**. Always open to collaboration and exciting opportunities!
+
 ---
 ### 🔹 What I Do:  
 - **Frontend Focused:** Proficient in **React.js**, **Next.js**, and **TypeScript**, crafting dynamic, user-friendly, and high-performance applications.  
