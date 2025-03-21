@@ -6,7 +6,7 @@ I’m a Full Stack Web Developer with *1 year of experience, trained at **[Masai
 
 ---
 ### 🎨 Beyond Code:  
-When I’m not coding, I’m either **sketching** or planning my next **travel adventure**. Always open to collaboration and exciting opportunities!
+When I’m not coding, I’m either listening to music or planning my next travel adventure. Always open to collaboration and exciting opportunities!
 
 ---
 ### 🔹 What I Do:  
