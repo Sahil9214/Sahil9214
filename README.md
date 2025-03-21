@@ -131,5 +131,16 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Sahil9214&show_icons=true" />
 </picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Sahil9214&theme=dark""
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Sahil9214"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sahil9214" />
+</picture>
 
-
+https://github-readme-stats.vercel.app/api/wakatime?username=Sahil9214
