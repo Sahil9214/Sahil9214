@@ -101,9 +101,6 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   </a>
@@ -126,7 +123,7 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
 
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil9214&show_icons=true&locale=en&layout=compact" alt="sahil9214" /></p> -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil9214&show_icons=true&locale=en&layout=compact" alt="sahil9214" /></p> 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil9214&show_icons=true&locale=en&layout=compact&theme=dark"
@@ -162,4 +159,3 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sahil9214" />
 </picture>
 
-https://github-readme-stats.vercel.app/api/wakatime?username=Sahil9214
