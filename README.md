@@ -2,7 +2,11 @@
 
 
 ### 🚀 About Me
-I’m a Full Stack Web Developer with 1.5+ year of experience, trained at **[Masai School](https://www.masaischool.com/)**, where I honed my skills in modern web development. Currently, I’m contributing to innovative projects at **[NeuralHQ.ai](https://www.neuralhq.ai/)**, a company I helped create. I specialize in crafting dynamic, responsive applications using **React.js**, **Next.js**, and **TypeScript**, and I’m passionate about leveraging cutting-edge tools like Angular, Vue.js, and **Docker** to build scalable solutions. I also experiment with AI tools like v0, Claude, Grok, DeepSeek, and ChatGPT to optimize workflows and explore new possibilities. When I’m not coding, you’ll find me sketching or planning my next travel adventure. Explore my projects below!
+I’m a Full Stack Web Developer with over **1.5 years** of professional experience, trained at Masai School, where I built a strong foundation in modern web technologies and software engineering principles.
+
+Previously, I was a core contributor at **NeuralHQ.ai**, a startup , where I spent **1+ year** building scalable, AI-powered web applications. Currently, I’m working at **Supersourcing**, where I continue to develop high-impact products that solve real-world business problems.
+
+I specialize in building robust, responsive applications using **React.js**,**Next.js**, and **TypeScript**. I’m also proficient with backend and DevOps tools like Node.js, Express, and Docker, and I enjoy experimenting with AI technologies to stay ahead of the curve.v0, Claude, Grok, DeepSeek, and ChatGPT to optimize workflows and explore new possibilities. When I’m not coding, you’ll find me sketching or planning my next travel adventure. Explore my projects below!
 
 ---
 ### 🎨 Beyond Code:  
@@ -15,7 +19,7 @@ When I’m not coding, I’m either listening to music or planning my next trave
 - **DevOps & AI Integration:** Experimenting with **Docker**, and leveraging AI tools like **v0, Claude, Grok, DeepSeek, and ChatGPT** to enhance development workflows. 
 
 
-🚀 **Looking for Frontend Developer Roles** – Let’s connect!  
+🚀 **Looking for Backend/Full Stack Web Developer Roles** – Let’s connect!  
 
 
 
