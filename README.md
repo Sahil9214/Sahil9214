@@ -40,7 +40,7 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
 
 - *AI-Powered Anonymous Messaging Tool*  
   Currently in progress  
-  Building an innovative AI-driven platform that enables users to connect anonymously, chat, and share messages securely. Leveraging *React.js, **Next.js, and **Node.js* with AI integrations for a seamless experience.
+  Building an innovative AI-driven platform that enables users to connect anonymously, chat, and share messages securely. Leveraging *React.js, **Next.js**, and **Node.js** with AI integrations for a seamless experience.
 
 - *Fashion AI @ NeuralHQ*  
   [September 2024 - Present](https://github.com/Sahil9214)  
@@ -48,7 +48,8 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
 
 - *Jaisalmer Mahotsav (Government Project)*  
   Completed  
-  Developed a web application for a government cultural festival, showcasing event schedules and local heritage. Built with *React.js* and optimized for scalability and performance.
+  Developed a web application for a government cultural festival, showcasing event schedules and local heritage. Built with **React.js** and optimized for scalability and performance.
+Delivered on time in just 10 days with a pixel-perfect, fully responsive design.
 
 - *Sean Chatbot @ NeuralHQ*  
   [November 2024 - Present](https://github.com/Sahil9214)  
@@ -56,7 +57,7 @@ Here’s a snapshot of my recent work and ambitions—showcasing my drive to inn
 
 - *NeuralHQ Corporate Website*  
   [April 2024 - May 2024](https://www.neuralhq.ai/)  
-  Designed and deployed a mobile-first website with a *98/100 Google PageSpeed score* using *React, **Tailwind CSS*, and lazy loading techniques.
+  Designed and deployed a mobile-first website with a **98/100 Google PageSpeed score** using *React, **Tailwind CSS**, and lazy loading techniques.
 
 - *All My Work*  
   Check out my portfolio: *[GitHub Portfolio](https://github.com/Sahil9214/Sahil9214.github.io)*
