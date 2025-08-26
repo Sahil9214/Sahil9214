@@ -35,33 +35,56 @@ When I’m not coding, I’m either listening to music or planning my next trave
 <img width="100%" src="https://camo.githubusercontent.com/e2beac979ae3ab1f72e0be34430356bc37033403f37fda87c54acfa549ea098f/68747470733a2f2f7777772e73796e63667573696f6e2e636f6d2f626c6f67732f77702d636f6e74656e742f75706c6f6164732f323032302f30372f546f702d362d46726f6e742d456e642d5765622d446576656c6f706d656e742d546f6f6c732d746f2d496e6372656173652d596f75722d50726f6475637469766974792d696e2d323032302d312e6a7067" alt="" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil9214" alt="sahil9214" /></a> </p>
 
-### 🌟 My Current Journey
-Here’s a snapshot of my recent work and ambitions—showcasing my drive to innovate and deliver impactful solutions:
+## What I'm Working On
 
-- *AI-Powered Anonymous Messaging Tool*  
-  Currently in progress  
-  Building an innovative AI-driven platform that enables users to connect anonymously, chat, and share messages securely. Leveraging *React.js, **Next.js**, and **Node.js** with AI integrations for a seamless experience.
+### GetProjects.ai (2025 - Present)
+[Live Site](https://getprojects.ai/)
 
-- *Fashion AI @ NeuralHQ*  
-  [September 2024 - Present](https://github.com/Sahil9214)  
-  Leading frontend development for an AI recommendation system with a responsive UI (Next.js, TypeScript, Tailwind CSS). Delivered a drag-and-drop interface and real-time analytics dashboard, boosting user engagement.
+Started this because I was tired of developers (including myself) struggling to find good projects to work on. It's basically Tinder for developers and projects - the AI matches you with stuff you'd actually want to build based on your skills.
 
-- *Jaisalmer Mahotsav (Government Project)*  
-  Completed  
-  Developed a web application for a government cultural festival, showcasing event schedules and local heritage. Built with **React.js** and optimized for scalability and performance.
-Delivered on time in just 10 days with a pixel-perfect, fully responsive design.
+**Stack:** Next.js, TypeScript, Tailwind, Node.js  
+**The cool part:** The recommendation engine actually learns what kind of projects you like
 
-- *Sean Chatbot @ NeuralHQ*  
-  [November 2024 - Present](https://github.com/Sahil9214)  
-  Enhanced an interactive chatbot with a sleek frontend (React, TypeScript) and backend (Node.js, REST APIs), plus an admin panel for conversation monitoring.
+### NeuralHQ Website (April-May 2024)
+[neuralhq.ai](https://www.neuralhq.ai/)
 
-- *NeuralHQ Corporate Website*  
-  [April 2024 - May 2024](https://www.neuralhq.ai/)  
-  Designed and deployed a mobile-first website with a **98/100 Google PageSpeed score** using *React, **Tailwind CSS**, and lazy loading techniques.
+Built their corporate site from scratch. Got it to 98/100 on PageSpeed which I'm pretty proud of. Turns out lazy loading everything actually works.
 
-- *All My Work*  
-  Check out my portfolio: *[GitHub Portfolio](https://github.com/Sahil9214/Sahil9214.github.io)*
+**Stack:** React, Tailwind CSS  
+**Lessons learned:** Performance matters more than fancy animations
 
+### Anonymous AI Chat (In Progress)
+
+Working on something where people can chat anonymously but the AI helps make conversations more meaningful. Still figuring out the privacy stuff but the concept is solid.
+
+**Stack:** React, Next.js, Node.js + some AI magic
+
+### Fashion AI @ NeuralHQ (Sept 2024 - Present)
+[GitHub](https://github.com/Sahil9214)
+
+Leading the frontend for their recommendation system. The drag-and-drop interface was fun to build, and the analytics dashboard actually gives useful insights (not just pretty charts).
+
+**Stack:** Next.js, TypeScript, Tailwind  
+**Best feature:** Real-time updates that don't break when 100+ people use it
+
+### Jaisalmer Mahotsav (Government Project)
+
+Got 10 days to build a festival website for the government. No pressure, right? Actually turned out great - showcased local culture and handled the traffic during the event.
+
+**Stack:** React.js  
+**Timeline:** 10 days (somehow made it work)  
+**Achievement unlocked:** Pixel-perfect government approval ✓
+
+### Sean Chatbot @ NeuralHQ (Nov 2024 - Present)
+[GitHub](https://github.com/Sahil9214)
+
+Enhanced their existing chatbot with a better UI and built an admin panel so they can actually see what users are asking about. The backend handles way more conversations now.
+
+**Stack:** React, TypeScript, Node.js, REST APIs
+
+---
+
+Check out more of my work: [Portfolio](https://github.com/Sahil9214/Sahil9214.github.io)
 ---
 
 
