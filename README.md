@@ -33,7 +33,7 @@ When I’m not coding, I’m either listening to music or planning my next trave
 <br/>
 <br/>
 <img width="100%" src="https://camo.githubusercontent.com/e2beac979ae3ab1f72e0be34430356bc37033403f37fda87c54acfa549ea098f/68747470733a2f2f7777772e73796e63667573696f6e2e636f6d2f626c6f67732f77702d636f6e74656e742f75706c6f6164732f323032302f30372f546f702d362d46726f6e742d456e642d5765622d446576656c6f706d656e742d546f6f6c732d746f2d496e6372656173652d596f75722d50726f6475637469766974792d696e2d323032302d312e6a7067" alt="" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil9214" alt="sahil9214" /></a> </p>
+
 
 ## What I'm Working On
 
