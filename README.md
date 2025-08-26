@@ -153,10 +153,7 @@ Check out more of my work: [Portfolio](https://github.com/Sahil9214/Sahil9214.gi
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil9214&show_icons=true&locale=en&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil9214&show_icons=true&locale=en&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahil9214&show_icons=true&locale=en&layout=compact" />
 </picture>
 
